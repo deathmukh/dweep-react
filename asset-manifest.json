@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dweep-react/static/css/main.28981509.css",
+    "main.js": "/dweep-react/static/js/main.820ef657.js",
+    "index.html": "/dweep-react/index.html",
+    "main.28981509.css.map": "/dweep-react/static/css/main.28981509.css.map",
+    "main.820ef657.js.map": "/dweep-react/static/js/main.820ef657.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28981509.css",
+    "static/js/main.820ef657.js"
+  ]
+}
